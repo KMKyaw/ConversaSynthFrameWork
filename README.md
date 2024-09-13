@@ -1,6 +1,6 @@
 # A Framework for Synthetic Audio Conversations Generation using Large Language Models
 
-This is the repository for [A Framework for Synthetic Audio Conversations Generation using Large Language Models](https://kmkyaw.github.io/conversaSynth/index.html) by [Kaung Myat Kyaw](kmkyaw.github.io) and Jonathan Hoyin Chan.
+This is the repository for [A Framework for Synthetic Audio Conversations Generation using Large Language Models](https://kmkyaw.github.io/conversaSynth/index.html) by [Kaung Myat Kyaw](https://kmkyaw.github.io/) and Jonathan Hoyin Chan.
 
 This repository contains a tool to generate synthetic conversations using user defined scenario and personas. The entire pipeline covers the process from generating text conversations using LLM to creating audio conversations using TTS models and saving annotations of each conversations.
 
