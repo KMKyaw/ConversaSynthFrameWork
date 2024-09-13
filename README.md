@@ -4,8 +4,6 @@ This is the repository for [A Framework for Synthetic Audio Conversations Genera
 
 This repository contains a tool to generate synthetic conversations using user defined scenario and personas. The entire pipeline covers the process from generating text conversations using LLM to creating audio conversations using TTS models and saving annotations of each conversations.
 
-<img align="center" src="poster.png" width="750">
-
 ## Table of Contents
 
 - [Requirements](#requirements)
